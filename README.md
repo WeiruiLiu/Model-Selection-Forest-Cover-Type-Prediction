@@ -20,7 +20,7 @@ Explore 8 different models to find the best one:
 
 ## How it Works
 1. Watch video presentation in Youtube click [Here](https://youtu.be/ZeRCr0BHK-s).
-2. Check 
+2. Check python code 
 
 
 
